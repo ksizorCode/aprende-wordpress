@@ -34,3 +34,15 @@ endif;
 
 ### IS y Classes
 ```<article id="post-<?php the_ID(); ?>" <?php post_class('single-post'); ?>>```
+
+
+
+## Plantillas Single
+Las que sólo muestran un articulo, post, apartado o elemento
+
+
+
+
+
+## Plantillas archive
+Muestran un listado de elementos a modo de indide de contenidos
